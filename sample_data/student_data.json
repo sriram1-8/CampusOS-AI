@@ -1,0 +1,15 @@
+{
+  "student": "Demo Student",
+  "tasks": [
+    {
+      "subject": "Artificial Intelligence",
+      "task": "Submit assignment",
+      "deadline": "Today"
+    },
+    {
+      "subject": "Java",
+      "task": "Quiz",
+      "deadline": "Tomorrow"
+    }
+  ]
+}
