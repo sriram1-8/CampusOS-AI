@@ -13,3 +13,9 @@ def get_tasks():
         data = json.load(file)
 
     return data["tasks"]
+@app.get("/priority")
+def get_priority():
+    return {
+        "priority": "Artificial Intelligence",
+        "reason": "The assignment is due today."
+    }
